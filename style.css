@@ -30,7 +30,7 @@ body{
 }
 .main-container{
     flex-shrink: 10;
-    width:700px;
+    width:710px;
     height: 400px;
     display: flex;
     justify-content: stretch;
@@ -95,7 +95,7 @@ body{
 }
 .main-container .container .description{
     font-family: var(--content-font);
-    font-weight: 700;
+    
     font-size: 12px;
     line-height: 17px;
     color: var(--content-font-color);
